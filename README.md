@@ -1,19 +1,3 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Paraslongadge999/real-time-social-sentiment/main/banner.png" width="100%" />
-</p>
-
-<h1 align="center">📡 Real-Time Social Sentiment Dashboard</h1>
-<h3 align="center">Turning unstructured social comments into real-time, actionable insights.</h3>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3.10-blue" />
-  <img src="https://img.shields.io/badge/Streamlit-Deployed-green" />
-  <img src="https://img.shields.io/badge/NLP-VADER-yellow" />
-  <img src="https://img.shields.io/badge/Status-Active-success" />
-</p>
-
----
-
 ## ⭐ Overview
 
 This project brings **real-time sentiment analysis** to life using a clean, intuitive **Streamlit dashboard**.  
@@ -150,5 +134,6 @@ pip install -r requirements.txt
 
 # Run the app
 streamlit run app/app.py
+
 
 
