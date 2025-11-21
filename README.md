@@ -117,9 +117,6 @@ compound >=  0.05  → Positive
 compound <= -0.05  → Negative
 otherwise          → Neutral
 
-
-<img width="2537" height="1018" alt="Screenshot 2025-11-21 002955" src="https://github.com/user-attachments/assets/0086968e-9e50-42fa-90f6-7a45adcfba6f" />
-
 ---
 
 ## 📦 Installation
@@ -135,6 +132,7 @@ pip install -r requirements.txt
 
 # Run the app
 streamlit run app/app.py
+
 
 
 
